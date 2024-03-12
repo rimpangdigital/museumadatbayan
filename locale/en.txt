@@ -1,0 +1,18 @@
+#: locale=en
+
+## Media
+
+### Title
+panorama_2A3528A2_3183_E9E9_41B2_355A48EF233E.label = R0013015
+panorama_28476DEB_3183_EB7F_41B4_084D2B71B30E.label = R0013016
+panorama_28426877_3183_2968_41A8_A59F61258323.label = R0013017
+panorama_2841A367_3183_3F77_4193_083518F12C72.label = R0013018
+panorama_28426E46_3183_28A8_41C5_B5F100DADC91.label = R0013019
+panorama_284119FE_3183_6B58_41AD_AFDC4DBD4AE5.label = R0013020
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Museum Adat Bayan
